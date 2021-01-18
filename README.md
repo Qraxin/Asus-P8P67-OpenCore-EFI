@@ -10,7 +10,7 @@ My PC configuration:
 Worked: 
 - Sleeping mode
 - Audio Back and Front
-- Ehternet
+- Ethernet
 
 BIOS shuould be updated to the last version 3206: https://www.asus.com/supportonly/P8P67%20EVO/HelpDesk_BIOS/
 
