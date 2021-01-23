@@ -15,3 +15,5 @@ Worked:
 BIOS shuould be updated to the last version 3206: https://www.asus.com/supportonly/P8P67%20EVO/HelpDesk_BIOS/
 
 USB loader you have to do yourself, the official OpenCore Guide can help you with it: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+
+⚠️ In the BOOT menu you should to choose your drive with `Windows Boot Manager`. It helps to run OpenCore on this motherboard. 
